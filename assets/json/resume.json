@@ -4,23 +4,23 @@
     "label": "PhD Student",
     "image": "",
     "email": "hxw080@student.bham.ac.uk",
-    // "phone": "(912) 123-4567",
+    "phone": "(912) 123-4567",
     "url": "https://hengfei-wang.github.io",
     "summary": "PhD student in the University of Birmingham, focuse on computer vision",
-    // "location": {
-    //   "address": "2712 Broadway St",
-    //   "postalCode": "CA 94115",
-    //   "city": "San Francisco",
-    //   "countryCode": "US",
-    //   "region": "California"
-    // },
-    // "profiles": [
-    //   {
-    //     "network": "Twitter",
-    //     "username": "AlbertEinstein",
-    //     "url": "https://twitter.com/AlbertEinstein"
-    //   }
-    // ]
+    "location": {
+      "address": "2712 Broadway St",
+      "postalCode": "CA 94115",
+      "city": "San Francisco",
+      "countryCode": "US",
+      "region": "California"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "AlbertEinstein",
+        "url": "https://twitter.com/AlbertEinstein"
+      }
+    ]
   },
   "work": [],
   "volunteer": [],

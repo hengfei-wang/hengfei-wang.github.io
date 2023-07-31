@@ -7,7 +7,7 @@ subtitle: <font size=2>PhD student in the University of Birmingham</font>
 profile:
   align: right
   image: Hengfei.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
 #   address: >
     # <p>555 your office number</p>
     # <p>123 your address street</p>
@@ -19,7 +19,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am currently a PhD student in Computer Science at [University of Birmingham](https://www.birmingham.ac.uk/index.aspx), under the supervision of [Dr. Hyung Jin Chang](https://hyungjinchang.wordpress.com/) and [Prof. Ales Leonardis](https://www.cs.bham.ac.uk/~leonarda/). Prior to the UK, I received my bachelor's degree and master degree in Mechanical Engineering at Tsinghua University in 2017 and 2020. My reseasrch interests are focused on computer vision and deep learning.
+I am currently a PhD student in Computer Science at [University of Birmingham](https://www.birmingham.ac.uk/index.aspx), under the supervision of [Dr. Hyung Jin Chang](https://hyungjinchang.wordpress.com/) and [Prof. Ales Leonardis](https://www.cs.bham.ac.uk/~leonarda/). Prior to the UK, I received my bachelor's degree and master degree in Mechanical Engineering at Tsinghua University in 2017 and 2020. 
+
+My reseasrch interests are focused on computer vision and deep learning, specifically gaze estimation and 3D face generation.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 

@@ -1,12 +1,6 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - hengfei-wang
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - cvlab-uob/Awesome-Gaze-Estimation
+  - CompVis/latent-diffusion

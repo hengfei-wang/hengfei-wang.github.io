@@ -4,23 +4,8 @@
     "label": "PhD Student",
     "image": "",
     "email": "hxw080@student.bham.ac.uk",
-    "phone": "(912) 123-4567",
     "url": "https://hengfei-wang.github.io",
     "summary": "PhD student in the University of Birmingham, focuse on computer vision",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
   },
   "work": [],
   "volunteer": [],
@@ -34,7 +19,27 @@
       "endDate": "",
       "score": "",
       "courses": []
-    }
+    },
+    {
+        "institution": "Tsinghua University, Beijing, China",
+        "url": "https://www.tsinghua.edu.cn/",
+        "area": "Mechanical Engineering",
+        "studyType": "Master",
+        "startDate": "2017-09-01",
+        "endDate": "2020-06-01",
+        "score": "",
+        "courses": []
+      }, 
+      {
+        "institution": "Tsinghua University, Beijing, China",
+        "url": "https://www.tsinghua.edu.cn/",
+        "area": "Mechanical Engineering",
+        "studyType": "Bachelor",
+        "startDate": "2013-09-01",
+        "endDate": "2017-06-01",
+        "score": "",
+        "courses": []
+      }
   ],
   "awards": [
     {

@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <font size=2>PhD student in the University of Birmingham</font>
 

@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: 
+description: Please click the preview image for better visualization.
 nav: true
 nav_order: 1
 ---

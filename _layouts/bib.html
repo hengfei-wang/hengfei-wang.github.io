@@ -2,7 +2,7 @@
 ---
 <!-- _layouts/bib.html -->
       <div class="row">
-        <div class="col-sm-2">
+        <!-- <div class="col-sm-2">
             {%- if entry.abbr -%}
             <div class="abbr">
                 {%- if site.data.venues[entry.abbr] -%}
@@ -30,8 +30,9 @@
                 {%- endif -%}
             </div>
             {%- endif -%}
-        </div>
-        <!-- <div class="col-sm-2 {% if entry.preview %}preview{% else %}abbr{% endif %}">
+        </div> -->
+
+        <div class="col-sm-2 {% if entry.preview %}preview{% else %}abbr{% endif %}">
         {%- if entry.preview -%}
           {% if entry.preview contains '://' -%}
           <img data-zoomable class="preview z-depth-1 rounded" src="{{ entry.preview }}">
@@ -54,7 +55,7 @@
             <abbr class="badge">{{entry.abbr}}</abbr>
           {%- endif -%}
         {%- endif -%}
-        </div> -->
+        </div>
 
         <!-- Entry bib key -->
         <div id="{{entry.key}}" class="col-sm-8">
@@ -159,14 +160,14 @@
         {%- endif -%}
         {% assign entrytype_text = entrytype | strip_html | strip %}
         {%- capture periodical -%}{{ entrytype }}{%- if entrytype_text != "" and entryyear != "" -%}, {%- endif -%}{{ entrymonth }}{{ entryyear }}{%- endcapture -%}
-        <!-- paper level -->
-        <div class="level">{{entry.level}}</div>
         <div class="periodical">
           {{ periodical | strip }}
         </div>
         <div class="periodical">
           {{ entry.note | strip }}
         </div>
+        <!-- paper level -->
+        <div class="level">{{entry.level}}</div>
 
           <!-- Links/Buttons -->
           <div class="links">

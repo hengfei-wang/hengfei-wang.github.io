@@ -130,6 +130,8 @@
         {%- endif -%}
         {% assign entrytype_text = entrytype | strip_html | strip %}
         {%- capture periodical -%}{{ entrytype }}{%- if entrytype_text != "" and entryyear != "" -%}, {%- endif -%}{{ entrymonth }}{{ entryyear }}{%- endcapture -%}
+        <!-- paper level -->
+        <div class="level">{{entry.level}}</div>
         <div class="periodical">
           {{ periodical | strip }}
         </div>

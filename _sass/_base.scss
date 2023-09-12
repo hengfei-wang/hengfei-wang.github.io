@@ -619,6 +619,12 @@ footer.sticky-bottom {
         font-weight: bolder;
       }
 
+      .level {
+        // add color as red
+        color: var(--global-danger-block-title);
+        font-weight: bolder;
+      }
+
       .author {
         a {
           border-bottom: 1px dashed var(--global-theme-color);

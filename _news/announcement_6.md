@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-"TextGaze: Gaze-Controllable Face Generation with Natural Language" is accepted in ACM Multimedia 2024.
+One paper is accepted in ACM Multimedia 2024.

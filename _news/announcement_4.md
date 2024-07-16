@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper is accepted in BMVC2023 and selected as <font color=red>oral</font>.
+"High-Fidelity Eye Animatable Neural Radiance Fields for Human Face" is accepted in BMVC2023 and selected as <font color=red>oral</font>.

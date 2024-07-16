@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper is accepted in CVPR2023 Gaze Workshop.
+"GazeCaps: Gaze Estimation with Self-Attention-Routed Capsules" is accepted in CVPR2023 Gaze Workshop.

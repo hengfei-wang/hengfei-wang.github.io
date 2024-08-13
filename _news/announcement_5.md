@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper is accepted in ECCV2024.
+One paper is accepted in ECCV2024 and selected as <font color=red>Oral</font>.

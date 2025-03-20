@@ -5,9 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
+Click the image for better visualization.
+
+<!-- {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+{% endif %} -->
 
 {% include base_path %}
 
@@ -32,11 +34,11 @@ author_profile: true
   {% endfor %}
 {% endif %} -->
 
-<ul>
+<!-- <ul>
 <li style="display: flex; align-items: center; margin-bottom: 15px;">
     <div style="flex-shrink: 0; margin-right: 15px;">
         <a href="https://www.yihua.zone/work/gaze322/" target="_blank">
-            <img src="http://hengfei-wang.github.io/images/3D2D.png" alt="Demo Thumbnail" style="width: 150px; height: 100px; object-fit: cover; border: 1px solid #ccc; border-radius: 5px;">
+            <img src="/images/3D2D.png" alt="Demo Thumbnail" style="width: 150px; height: 100px; object-fit: cover; border: 1px solid #ccc; border-radius: 5px;">
         </a>
     </div>
     <div>
@@ -50,5 +52,233 @@ author_profile: true
   <li><b>Hengfei Wang</b>, Zhongqun Zhang, Yihua Cheng, Hyung Jin Chang. "High-Fidelity Eye Animatable Neural Radiance Fields for Human Face." The British Machine Vision Conference (BMVC), <font color="red">Oral</font>, 2023. <a href="http://hengfei-wang.github.io/files/DeNeRF.pdf">[Paper]</a></li>
   <li><b>Hengfei Wang</b>, Jun O. Oh, Hyung Jin Chang, Jin Hee Na, Minwoo Tae, Zhongqun Zhang, Sang-Il Choi. "GazeCaps: Gaze Estimation With Self-Attention-Routed Capsules." Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), 2023. <a href="http://hengfei-wang.github.io/files/GazeCaps.pdf">[Paper]</a></li>
   <li><b>Hengfei Wang</b>, Zandong Han, Qingxian Ma. "Robotic System with Power Line Communication for In-pipe Inspection of Underground Urban Gas Pipeline." International Conference on Robotics and Automation Engineering (ICRAE), 2019. <a href="http://hengfei-wang.github.io/files/PipelineRobot.pdf">[Paper]</a></li>
+</ul> -->
+
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <title>论文展示（可点击放大）</title>
+    <style>
+        ul.paper-list {
+            list-style-type: none;
+            padding: 0;
+        }
+        .paper-item {
+            display: flex;
+            align-items: flex-start;
+            margin-bottom: 20px;
+        }
+        .paper-thumb {
+            width: 150px;
+            height: 100px;
+            flex-shrink: 0;
+            margin-right: 15px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            object-fit: cover;
+            cursor: pointer;
+        }
+        .paper-info {
+            font-family: Arial, sans-serif;
+        }
+        .paper-title {
+            font-weight: bold;
+            font-size: 18px;
+            margin: 0 0 6px;
+        }
+        .paper-title a {
+            text-decoration: none;
+            color: #095b7c;
+        }
+        .paper-authors {
+            font-size: 14px;
+            color: #666;
+            margin-bottom: 5px;
+        }
+        .paper-meta {
+        font-size: 13px;
+        display: flex;
+        align-items: center;
+        gap: 10px; /* 控制中间间距 */
+        /* margin-top: 4px; */
+        }
+
+        .paper-conf {
+            font-weight: bold;
+            color: #333;
+            margin: 0; /* 取消 margin-bottom */
+        }
+
+        .paper-links a {
+            color: #095b7c;
+            text-decoration: none;
+            font-size: 13px;
+            margin-right: 5px; /* 链接间距 */
+        }
+
+        /* 图片浮动显示样式 */
+        #overlay {
+            position: fixed;
+            top: 0; left: 0;
+            width: 100%; height: 100%;
+            background: rgba(0,0,0,0.8);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            z-index: 9999;
+            visibility: hidden;
+        }
+        #overlay img {
+            max-width: 80%; max-height: 80%;
+            border-radius: 5px;
+            box-shadow: 0 4px 10px rgba(255,255,255,0.4);
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+
+<ul class="paper-list">
+    <!-- 3D2D -->
+    <li class="paper-item">
+        <img class="paper-thumb" src="/images/3D2D.png" data-large-src="/images/3D2D.png" alt="Demo Thumbnail">
+        <div class="paper-info">
+            <p class="paper-title">
+                <a href="http://hengfei-wang.github.io/files/3D2D.pdf" target="_blank">
+                    3D Prior Is All You Need: Cross-Task Few-shot 2D Gaze Estimation
+                </a>
+            </p>
+            <p class="paper-authors">Yihua Cheng, <b>Hengfei Wang</b>, Zhongqun Zhang, Yang Yue, Boeun Kim, Feng Lu, Hyung Jin Chang</p>
+            <p class="paper-meta">
+                <span class="paper-conf">CVPR 2025</span> 
+                <span class="paper-links">
+                    <a href="http://hengfei-wang.github.io/files/3D2D.pdf">[Paper]</a> 
+                    <a href="https://www.yihua.zone/work/gaze322/">[Project]</a>
+                </span>
+            </p>
+        </div>
+    </li>
+
+    <!-- TextGaze -->
+    <li class="paper-item">
+        <img class="paper-thumb" src="/images/TextGaze.png" data-large-src="/images/TextGaze.png" alt="Demo Thumbnail">
+        <div class="paper-info">
+            <p class="paper-title">
+                <a href="http://hengfei-wang.github.io/files/TextGaze.pdf" target="_blank">
+                    TextGaze: Gaze-Controllable Face Generation with Natural Language
+                </a>
+            </p>
+            <p class="paper-authors"><b>Hengfei Wang</b>, Zhongqun Zhang, Yihua Cheng, Hyung Jin Chang</p>
+            <p class="paper-meta">
+                <span class="paper-conf">ACM MM 2024</span>
+                <span class="paper-links">
+                    <a href="http://hengfei-wang.github.io/files/TextGaze.pdf">[Paper]</a>
+                </span>
+            </p>
+        </div>
+    </li>
+
+    <!-- NL2Contact -->
+    <li class="paper-item">
+        <img class="paper-thumb" src="/images/NL2Contact.png" data-large-src="/images/NL2Contact.png" alt="Demo Thumbnail">
+        <div class="paper-info">
+            <p class="paper-title">
+                <a href="http://hengfei-wang.github.io/files/NL2Contact.pdf" target="_blank">
+                    NL2Contact: Natural Language Guided 3D Hand-Object Contact Modeling with Diffusion Model
+                </a>
+            </p>
+            <p class="paper-authors">Zhongqun Zhang, <b>Hengfei Wang</b>, Ziwei Yu, Yihua Cheng, Angela Yao, Hyung Jin Chang</p>
+            <p class="paper-meta">
+                <span class="paper-conf">ECCV 2024 <font color="red">Oral</font></span>
+                <span class="paper-links">
+                    <a href="http://hengfei-wang.github.io/files/NL2Contact.pdf">[Paper]</a>
+                </span>
+            </p>
+        </div>
+    </li>
+
+    <!-- DeNeRF -->
+    <li class="paper-item">
+        <img class="paper-thumb" src="/images/DeNeRF.gif" data-large-src="/images/DeNeRF.gif" alt="Demo Thumbnail">
+        <div class="paper-info">
+            <p class="paper-title">
+                <a href="http://hengfei-wang.github.io/files/DeNeRF.pdf" target="_blank">
+                    High-Fidelity Eye Animatable Neural Radiance Fields for Human Face
+                </a>
+            </p>
+            <p class="paper-authors"><b>Hengfei Wang</b>, Zhongqun Zhang, Yihua Cheng, Hyung Jin Chang</p>
+            <p class="paper-meta">
+                <span class="paper-conf">BMVC 2023 <font color="red">Oral</font></span>
+                <span class="paper-links">
+                    <a href="http://hengfei-wang.github.io/files/DeNeRF.pdf">[Paper]</a>
+                </span>
+            </p>
+        </div>
+    </li>
+
+    <!-- GazeCaps -->
+    <li class="paper-item">
+        <img class="paper-thumb" src="/images/GazeCaps.png" data-large-src="/images/GazeCaps.png" alt="Demo Thumbnail">
+        <div class="paper-info">
+            <p class="paper-title">
+                <a href="http://hengfei-wang.github.io/files/GazeCaps.pdf" target="_blank">
+                    GazeCaps: Gaze Estimation With Self-Attention-Routed Capsules
+                </a>
+            </p>
+            <p class="paper-authors"><b>Hengfei Wang</b>, Jun O. Oh, Hyung Jin Chang, Jin Hee Na, Minwoo Tae, Zhongqun Zhang, Sang-Il Choi</p>
+            <p class="paper-meta">
+                <span class="paper-conf">CVPRW 2023</span>
+                <span class="paper-links">
+                    <a href="http://hengfei-wang.github.io/files/GazeCaps.pdf">[Paper]</a>
+                </span>
+            </p>
+        </div>
+    </li>
+
+    <!-- PipelineRobot -->
+    <li class="paper-item">
+        <img class="paper-thumb" src="/images/PipelineRobot.png" data-large-src="/images/PipelineRobot.png" alt="Demo Thumbnail">
+        <div class="paper-info">
+            <p class="paper-title">
+                <a href="http://hengfei-wang.github.io/files/PipelineRobot.pdf" target="_blank">
+                    Robotic System with Power Line Communication for In-pipe Inspection of Underground Urban Gas Pipeline
+                </a>
+            </p>
+            <p class="paper-authors"><b>Hengfei Wang</b>, Zandong Han, Qingxian Ma</p>
+            <p class="paper-meta">
+                <span class="paper-conf">ICRAE 2019</span>
+                <span class="paper-links">
+                    <a href="http://hengfei-wang.github.io/files/PipelineRobot.pdf">[Paper]</a>
+                </span>
+            </p>
+        </div>
+    </li>
+  
 </ul>
+
+<!-- 图片浮动显示容器 -->
+<div id="overlay" onclick="hideOverlay()">
+    <img id="overlay-img" src="">
+</div>
+
+<script>
+    // 点击缩略图浮动显示大图
+    document.querySelectorAll('.paper-thumb').forEach(img => {
+        img.addEventListener('click', function(e){
+            const overlay = document.getElementById('overlay');
+            const overlayImg = document.getElementById('overlay-img');
+            overlayImg.src = e.target.getAttribute('data-large-src');
+            overlay.style.visibility = 'visible';
+        });
+    });
+
+    // 再次点击隐藏浮动图片
+    function hideOverlay(){
+        document.getElementById('overlay').style.visibility = 'hidden';
+    }
+</script>
+
+</body>
+</html>
 

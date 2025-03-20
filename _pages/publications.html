@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+<script src="{{ '/assets/js/overlay.js' | relative_url }}"></script>
+
 Click the image for better visualization.
 
 <!-- {% if site.author.googlescholar %}
@@ -261,25 +263,6 @@ Click the image for better visualization.
 <div id="overlay" onclick="hideOverlay()">
     <img id="overlay-img" src="">
 </div>
-
-<script>
-    document.addEventListener('DOMContentLoaded', function() {
-        document.querySelectorAll('.paper-thumb').forEach(img => {
-            img.addEventListener('click', function(e){
-                const overlay = document.getElementById('overlay');
-                const overlayImg = document.getElementById('overlay-img');
-                overlayImg.src = e.target.getAttribute('data-large-src');
-                overlay.style.visibility = 'visible';
-            });
-        });
-    
-        // 再次点击隐藏浮动图片
-        document.getElementById('overlay').addEventListener('click', function() {
-            this.style.visibility = 'hidden';
-        });
-    });
-</script>
-
 
 
 </body>

@@ -25,11 +25,11 @@ author:
   avatar           : "hengfei.jpg"
   name             : "Hengfei Wang"
   pronouns         : # example: "she/her"  
-  bio              : "PhD in Computer Vision"
-  location         : "Birmingham, UK"
-  employer         : "University of Birmingham"
+  bio              : "Postdoctoral Research Fellow"
+  location         : "Switzerland"
+  employer         : "Idiap Research Institute"
   uri              : # URL
-  email            : "hengfei_wang@163.com" 
+  email            : "hwang@idiap.ch" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile

@@ -13,11 +13,11 @@ My research interests are focused on computer vision and machine learning, speci
 
 # News
 **[2025-09]**: I joined EPFL & Idiap as a Postdoctoral Research Fellow. \\
-**[2025-07]**: "Roll Your Eyes: Gaze Redirection via Explicit 3D Eyeball Rotation" is accepted in **ACM Multimedia 2025** **<font color=red>(Oral Presentation)</font>**. \\
+**[2025-07]**: "Roll Your Eyes: Gaze Redirection via Explicit 3D Eyeball Rotation" is accepted in **ACM Multimedia 2025** **<font color=red>(Oral)</font>**. \\
 **[2025-02]**: I successfully defended my PhD! \\
 **[2025-02]**: "3D Prior Is All You Need: Cross-Task Few-shot 2D Gaze Estimation" is accepted in **CVPR 2025**. \\
 **[2024-07]**: "TextGaze: Gaze-Controllable Face Generation with Natural Language" is accepted in **ACM Multimedia 2024**. \\
-**[2024-07]**: "NL2Contact: Natural Language Guided 3D Hand-Object Contact Modeling with Diffusion Model" is accepted in **ECCV2024** **<font color=red>(Oral Presentation)</font>**. \\
-**[2023-09]**: "High-Fidelity Eye Animatable Neural Radiance Fields for Human Face" is accepted in **BMVC2023** **<font color=red>(Oral Presentation)</font>**. \\
+**[2024-07]**: "NL2Contact: Natural Language Guided 3D Hand-Object Contact Modeling with Diffusion Model" is accepted in **ECCV2024** **<font color=red>(Oral)</font>**. \\
+**[2023-09]**: "High-Fidelity Eye Animatable Neural Radiance Fields for Human Face" is accepted in **BMVC2023** **<font color=red>(Oral)</font>**. \\
 **[2023-04]**: "GazeCaps: Gaze Estimation With Self-Attention-Routed Capsules" is accepted in **CVPR2023 Gaze Workshop**. \\
 **[2020-09]**: I start my PhD study at the University of Birmingham!

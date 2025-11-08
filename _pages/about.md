@@ -12,7 +12,7 @@ I am currently a Postdoctoral Research Fellow at [EPFL](https://www.epfl.ch/en/)
 My research interests are focused on computer vision and machine learning, specifically 2D/3D gaze-controllable face generation, gaze estimation, 3D hand-object contact modeling, and neural rendering. I am also interested in the intersection of computer vision and natural language processing.
 
 # News
-**[2025-09]**: "RTGaze: Real-Time 3D-Aware Gaze Redirection from a Single Image" is accepted in **AAAI 2026**. \\
+**[2025-11]**: "RTGaze: Real-Time 3D-Aware Gaze Redirection from a Single Image" is accepted in **AAAI 2026**. \\
 **[2025-09]**: I joined EPFL & Idiap as a Postdoctoral Research Fellow. \\
 **[2025-07]**: "Roll Your Eyes: Gaze Redirection via Explicit 3D Eyeball Rotation" is accepted in **ACM Multimedia 2025** **<font color=red>(Oral)</font>**. \\
 **[2025-02]**: I successfully defended my PhD! \\

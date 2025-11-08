@@ -22,7 +22,6 @@ redirect_from:
 <div class="cv-toolbar">
   <a class="cv-btn" href="{{ '/files/CV.pdf' | relative_url }}" target="_blank" rel="noopener" download>Download PDF</a>
   <a class="cv-btn" href="{{ '/files/CV.pdf' | relative_url }}" target="_blank" rel="noopener">Open in new window</a>
-  <div class="cv-note">If the browser cannot embed the PDF, please use "Download PDF" or "Open in new window". Mobile devices typically open the system PDF viewer.</div>
 </div>
 
 <!-- Update timestamp -->

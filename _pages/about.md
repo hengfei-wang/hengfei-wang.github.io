@@ -12,13 +12,13 @@ I am currently a Postdoctoral Research Fellow at [EPFL](https://www.epfl.ch/en/)
 My research interests are focused on computer vision and machine learning, specifically 2D/3D gaze-controllable face generation, gaze estimation, 3D hand-object contact modeling, and neural rendering. I am also interested in the intersection of computer vision and natural language processing.
 
 # News
-**[2025-11]**: "RTGaze: Real-Time 3D-Aware Gaze Redirection from a Single Image" is accepted in **AAAI 2026**. \\
+**[2025-11]**: One paper (RTGaze) is accepted in **AAAI 2026**. \\
 **[2025-09]**: I joined EPFL & Idiap as a Postdoctoral Research Fellow. \\
-**[2025-07]**: "Roll Your Eyes: Gaze Redirection via Explicit 3D Eyeball Rotation" is accepted in **ACM Multimedia 2025** **<font color=red>(Oral)</font>**. \\
+**[2025-07]**: One paper is accepted in **ACM Multimedia 2025** **<font color=red>(Oral)</font>**. \\
 **[2025-02]**: I successfully defended my PhD! \\
-**[2025-02]**: "3D Prior Is All You Need: Cross-Task Few-shot 2D Gaze Estimation" is accepted in **CVPR 2025**. \\
-**[2024-07]**: "TextGaze: Gaze-Controllable Face Generation with Natural Language" is accepted in **ACM Multimedia 2024**. \\
-**[2024-07]**: "NL2Contact: Natural Language Guided 3D Hand-Object Contact Modeling with Diffusion Model" is accepted in **ECCV 2024** **<font color=red>(Oral)</font>**. \\
-**[2023-09]**: "High-Fidelity Eye Animatable Neural Radiance Fields for Human Face" is accepted in **BMVC 2023** **<font color=red>(Oral)</font>**. \\
-**[2023-04]**: "GazeCaps: Gaze Estimation With Self-Attention-Routed Capsules" is accepted in **CVPR2023 Gaze Workshop**. \\
+**[2025-02]**: One paper is accepted in **CVPR 2025**. \\
+**[2024-07]**: One paper (TextGaze) is accepted in **ACM Multimedia 2024**. \\
+**[2024-07]**: One paper (NL2Contact) is accepted in **ECCV 2024** **<font color=red>(Oral)</font>**. \\
+**[2023-09]**: One paper is accepted in **BMVC 2023** **<font color=red>(Oral)</font>**. \\
+**[2023-04]**: One paper (GazeCaps) is accepted in **CVPR2023 Gaze Workshop**. \\
 **[2020-09]**: I start my PhD study at the University of Birmingham!

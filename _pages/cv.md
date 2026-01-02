@@ -25,7 +25,7 @@ redirect_from:
 </div>
 
 <!-- Update timestamp -->
-<div class="cv-updated" aria-hidden="false">Last updated: October 2025</div>
+<div class="cv-updated" aria-hidden="false">Last updated: January 2026</div>
 
 <div class="pdf-wrap" role="document" aria-label="Curriculum Vitae">
   <!-- Use object to embed, with iframe as additional fallback -->

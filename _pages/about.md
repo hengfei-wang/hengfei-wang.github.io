@@ -12,7 +12,7 @@ I am currently a Postdoctoral Research Fellow at [EPFL](https://www.epfl.ch/en/)
 My research interests are focused on computer vision and machine learning, specifically 2D/3D gaze-controllable face generation, gaze estimation, 3D hand-object contact modeling, and neural rendering. I am also interested in the intersection of computer vision and natural language processing.
 
 # News
-**[2026-1]**: 🔥 I will co-organize the 7th International Workshop on Eye and Gaze in Computer Vision ([GAZE 2026](https://gazeworkshop.github.io/2026/)) at [CVPR 2026](https://cvpr.thecvf.com/). Stay tuned! \\
+**[2026-01]**: 🔥 I will co-organize the 7th International Workshop on Eye and Gaze in Computer Vision ([GAZE 2026](https://gazeworkshop.github.io/2026/)) at [CVPR 2026](https://cvpr.thecvf.com/). Stay tuned! \\
 **[2025-11]**: 🔥 One paper ([RTGaze](https://hengfei-wang.github.io/rtgaze)) is accepted in **AAAI 2026**. \\
 **[2025-09]**: 🔥 I joined EPFL & Idiap as a Postdoctoral Research Fellow. \\
 **[2025-07]**: One paper is accepted in **ACM Multimedia 2025** **<font color=red>(Oral)</font>**. \\

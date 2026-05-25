@@ -9,7 +9,7 @@ redirect_from:
 
 I am currently a Postdoctoral Research Fellow at [EPFL](https://www.epfl.ch/en/) & [Idiap](https://www.idiap.ch/en) under the mentorship of [Dr. Jean-Marc Odobez](https://www.idiap.ch/~odobez/). Before that, I obtained my PhD at [University of Birmingham](https://www.birmingham.ac.uk/index.aspx), under the supervision of [Dr. Hyung Jin Chang](https://hyungjinchang.wordpress.com/) and [Prof. Ales Leonardis](https://www.birmingham.ac.uk/staff/profiles/computer-science/academic-staff/leonardis-ales). Prior to Birmingham, I received my Bachelor's degree and Master's degree in Mechanical Engineering at [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2017 and 2020. 
 
-My research interests are focused on computer vision and machine learning, specifically 2D/3D gaze-controllable face generation, gaze estimation, 3D hand-object contact modeling, and neural rendering. I am also interested in the intersection of computer vision and natural language processing.
+My research lies at the intersection of vision-language understanding, gaze and attention modeling, social behavior analysis, and 3D-aware digital human generation. I aim to develop AI systems that can perceive, interpret, and generate human-centric behaviors, including where people look, what they attend to, how they interact, and how realistic digital humans can be controlled.
 
 # News
 **[2026-01]**: 🔥 I will co-organize the 7th International Workshop on Eye and Gaze in Computer Vision ([GAZE 2026](https://gazeworkshop.github.io/2026/)) at [CVPR 2026](https://cvpr.thecvf.com/). Stay tuned! \\

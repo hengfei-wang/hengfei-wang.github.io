@@ -12,9 +12,10 @@ I am currently a Postdoctoral Research Fellow at [EPFL](https://www.epfl.ch/en/)
 My research lies at the intersection of vision-language understanding, gaze and attention modeling, social behavior analysis, and 3D-aware digital human generation. I aim to develop AI systems that can perceive, interpret, and generate human-centric behaviors, including where people look, what they attend to, how they interact, and how realistic digital humans can be controlled.
 
 # News
-**[2026-01]**: 🔥 I will co-organize the 7th International Workshop on Eye and Gaze in Computer Vision ([GAZE 2026](https://gazeworkshop.github.io/2026/)) at [CVPR 2026](https://cvpr.thecvf.com/). Stay tuned! \\
-**[2025-11]**: 🔥 One paper ([RTGaze](https://hengfei-wang.github.io/rtgaze)) is accepted in **AAAI 2026**. \\
-**[2025-09]**: 🔥 I joined EPFL & Idiap as a Postdoctoral Research Fellow. \\
+**[2026-09]**: 🔥 One paper ([EyeVLM](https://arxiv.org/abs/2605.19859)) is accepted in **NeurIPS 2026 ED Track** \\
+**[2026-01]**: I will co-organize the 7th International Workshop on Eye and Gaze in Computer Vision ([GAZE 2026](https://gazeworkshop.github.io/2026/)) at [CVPR 2026](https://cvpr.thecvf.com/). Stay tuned! \\
+**[2025-11]**: One paper ([RTGaze](https://hengfei-wang.github.io/rtgaze)) is accepted in **AAAI 2026**. \\
+**[2025-09]**: I joined EPFL & Idiap as a Postdoctoral Research Fellow. \\
 **[2025-07]**: One paper is accepted in **ACM Multimedia 2025** **<font color=red>(Oral)</font>**. \\
 **[2025-02]**: I successfully defended my PhD! \\
 **[2025-02]**: One paper is accepted in **CVPR 2025**. \\

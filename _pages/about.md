@@ -16,7 +16,7 @@ My research lies at the intersection of vision-language understanding, gaze and 
 **[2026-01]**: I will co-organize the 7th International Workshop on Eye and Gaze in Computer Vision ([GAZE 2026](https://gazeworkshop.github.io/2026/)) at [CVPR 2026](https://cvpr.thecvf.com/). Stay tuned! \\
 **[2025-11]**: One paper ([RTGaze](https://hengfei-wang.github.io/rtgaze)) is accepted in **AAAI 2026**. \\
 **[2025-09]**: I joined EPFL & Idiap as a Postdoctoral Research Fellow. \\
-**[2025-07]**: One paper is accepted in **ACM Multimedia 2025** **<font color=red>(Oral)</font>**. \\
+**[2025-07]**: One paper is accepted in **ACM Multimedia 2025**. \\
 **[2025-02]**: I successfully defended my PhD! \\
 **[2025-02]**: One paper is accepted in **CVPR 2025**. \\
 **[2024-07]**: One paper (TextGaze) is accepted in **ACM Multimedia 2024**. \\
